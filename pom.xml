@@ -17,6 +17,8 @@
         <module>demo-http</module>
         <module>demo-websockt</module>
         <module>deme-protobuf</module>
+        <module>demo-handle</module>
+        <module>demo-package-splicing</module>
     </modules>
 
     <dependencies>
