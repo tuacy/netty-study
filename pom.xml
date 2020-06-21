@@ -19,7 +19,14 @@
         <module>deme-protobuf</module>
         <module>demo-handle</module>
         <module>demo-package-splicing</module>
+        <module>demo-dubbo</module>
+        <module>demo-netty</module>
     </modules>
+
+    <properties>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/io.netty/netty-all -->
