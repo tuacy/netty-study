@@ -1,3 +1,15 @@
 netty-study.iml
 .idea
 /demo-dubbo/demo-dubbo.iml
+/demo-websockt/demo-websockt.iml
+demo-taskQueue/demo-taskQueue.iml
+demo-simple/demo0.iml
+demo-package-splicing/demo-package-splicing.iml
+demo-netty/demo-netty.iml
+demo-http/demo-http.iml
+demo-heartbeat/demo-heartbeat.iml
+demo-handle/demo-handle.iml
+demo-group-chat/demo-group-chat.iml
+demo-buf/demo-buf.iml
+deme-protobuf/deme-protobuf.iml
+demo-sync/demo-sync.iml

@@ -21,6 +21,7 @@
         <module>demo-package-splicing</module>
         <module>demo-dubbo</module>
         <module>demo-netty</module>
+        <module>demo-sync</module>
     </modules>
 
     <properties>
