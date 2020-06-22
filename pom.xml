@@ -22,6 +22,7 @@
         <module>demo-dubbo</module>
         <module>demo-netty</module>
         <module>demo-sync</module>
+        <module>demo-connect-pool</module>
     </modules>
 
     <properties>

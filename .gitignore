@@ -13,3 +13,4 @@ demo-group-chat/demo-group-chat.iml
 demo-buf/demo-buf.iml
 deme-protobuf/deme-protobuf.iml
 demo-sync/demo-sync.iml
+demo-connect-pool/demo-connect-pool.iml
